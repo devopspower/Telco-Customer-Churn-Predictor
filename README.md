@@ -9,7 +9,7 @@ This repository contains an end-to-end deep learning pipeline designed to predic
 - **Performance:** Achieved **~79.74% accuracy** on the validation set.
 - **Interactive Interface:** Live Streamlit web application for real-time risk scoring.
 
-![Forecasting result](streamlit-churn-result.png)
+![Predictor result](streamlit-churn-result.png)
 
 ## 🛠️ Step-by-Step Process
 
@@ -99,4 +99,5 @@ python main.py
 streamlit run app.py
 
 ```
+
 
